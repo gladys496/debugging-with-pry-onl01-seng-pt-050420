@@ -1,7 +1,7 @@
 require 'pry'
 
-def plus_two(num)
-	3 + 2 = num
+def plus_two(numm = 3)
+	puts num + 2 
 	num
 
 end
